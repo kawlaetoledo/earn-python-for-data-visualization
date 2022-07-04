@@ -1,4 +1,4 @@
-# Análise e criações de gráficos com bibliotecas no Python
+# Análise/criações de gráficos com bibliotecas no Python e básicos de machine learning
 
 ## Tecnologias utilizadas:
 
